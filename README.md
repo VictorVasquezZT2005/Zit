@@ -1,4 +1,4 @@
-# Zit C
+# Zit
 
 Zit C es un sistema de control de versiones muy simple escrito en **C**, inspirado en Git. Permite inicializar un repositorio, agregar archivos, realizar commits y mostrar el historial de cambios.
 
